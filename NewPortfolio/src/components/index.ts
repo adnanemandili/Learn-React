@@ -9,7 +9,7 @@ import Home from "./Home";
 import Particules from "./Particules";
 import Programmer from "./Programmer";
 import Loader from "./Loader";
-
+import techHolder from "./techHolder";
 
 export{
     About,
@@ -22,5 +22,6 @@ export{
     Particules,
     Home,
     Programmer,
-    Loader
+    Loader,
+    techHolder
 };

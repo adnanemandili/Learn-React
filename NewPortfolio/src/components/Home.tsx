@@ -42,7 +42,7 @@ const Home = () => {
             Hi, I&rsquo;m <span className='text-[#12769E]'>Adnane</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            A passionate software engineering student ,<br className='sm:block hidden' />  constantly driven to delve deeper into the field, always eager to learn more. 
+            A passionate software engineering student ,<br className='sm:block hidden' />  constantly driven to delve deeper into the field,<br className='sm:block hidden' /> always eager to learn more. 
           </p>
         </div>
       </div>
