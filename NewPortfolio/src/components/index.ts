@@ -10,6 +10,7 @@ import Particules from "./Particules";
 import Programmer from "./Programmer";
 import Loader from "./Loader";
 import techHolder from "./techHolder";
+import EarthCanvas from "./EarthCanvas";
 
 export{
     About,
@@ -23,5 +24,6 @@ export{
     Home,
     Programmer,
     Loader,
-    techHolder
+    techHolder,
+    EarthCanvas
 };

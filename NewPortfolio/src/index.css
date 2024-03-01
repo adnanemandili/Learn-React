@@ -20,7 +20,9 @@
 }
 
 .block-container {
-  position: relative;
+  /* position:relative; */
+  /* justify-content: center;
+  justify-items: center; */
   transition: 250ms;
   perspective: 500px;
 }

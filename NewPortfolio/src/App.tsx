@@ -11,14 +11,14 @@ const App = () => {
         <div className=" relative z-0 bg-cover bg-no-repeat bg-center">
           <Home/>
         </div>
-        <div>
+        <div className=" relative z-0">
           <About/>
           <Experience/>
           <Formation/>
           <Tech/>
           <Projects/>
         </div>
-        <div>
+        <div className=" relative z-0 ">
           <Contact/>
         </div>
       </div>
